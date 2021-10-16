@@ -1,7 +1,8 @@
 # Commission React Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This repo is created for developers to contribute in hacktoberfest fest.
+You can fork this repo, make any changes and create a pull request. I will merge and this will be counted as a contribution in your hacktober PRs.
 
 ## Available Scripts
 
