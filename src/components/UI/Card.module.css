@@ -4,3 +4,6 @@
     border-radius: 14px;
     background-color: white;
 }
+.card:hover {
+    background-color: grey;
+}
