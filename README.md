@@ -1,6 +1,7 @@
 # Commission React Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo is created for developers to contribute in hacktoberfest fest.
 
 ## Available Scripts
 
