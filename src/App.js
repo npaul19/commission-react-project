@@ -13,7 +13,7 @@ function App() {
         <Card>This is a basic card component.</Card>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
