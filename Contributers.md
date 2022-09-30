@@ -1,2 +1,2 @@
 Contributers List:
-- <Name>
+- [Nishtha Paul](https://github.com/npaul19)
