@@ -1,1 +1,2 @@
 - [Nishtha Paul]()
+- [Amogh Paul](https://github.com/Amoghpaul)
